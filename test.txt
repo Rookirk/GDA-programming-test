@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adfjgasdf;jasdf
+=======
+bvkjfkdlsfm,mvc
+>>>>>>> fb258e84d68cd0d7e2fc40123f93611e72ae3548
